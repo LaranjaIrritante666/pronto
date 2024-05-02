@@ -2,9 +2,9 @@
 
 meu nome 
 
-isso aqui é pro alura eu acho
+isso aqui é pro arula
 
-desenvolvendo JavaScript na linguagem Estou
+desenvolvendo me JavaScript na linguagem Estou
 
 gethub ssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaas
 
