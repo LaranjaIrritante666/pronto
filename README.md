@@ -2,7 +2,7 @@
 
 meu nome 
 
-isso aqui é pro arula
+é pro arula
 
 desenvolvendo me JavaScript na linguagem Estou
 
